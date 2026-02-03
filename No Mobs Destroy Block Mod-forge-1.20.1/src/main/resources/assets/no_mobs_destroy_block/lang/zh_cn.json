@@ -1,0 +1,11 @@
+{
+  "config.no_mobs_destroy_block.title": "禁止生物破坏方块",
+  "config.no_mobs_destroy_block.disabled_entities": "禁用实体列表",
+  "config.no_mobs_destroy_block.disabled_entities.tooltip": "应该被阻止破坏方块的实体ID列表",
+  "config.no_mobs_destroy_block.explosion_effects": "启用爆炸效果",
+  "config.no_mobs_destroy_block.explosion_effects.tooltip": "在阻止方块破坏的同时是否启用爆炸效果（伤害、粒子、音效）",
+  "config.no_mobs_destroy_block.enderman_pickup": "阻止末影人拾取",
+  "config.no_mobs_destroy_block.enderman_pickup.tooltip": "是否阻止末影人拾取方块",
+  "config.no_mobs_destroy_block.wither_damage": "阻止凋灵破坏方块",
+  "config.no_mobs_destroy_block.wither_damage.tooltip": "是否阻止凋灵的蓝色凋灵之首破坏方块"
+}

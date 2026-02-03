@@ -1,0 +1,11 @@
+{
+  "config.no_mobs_destroy_block.title": "No Mobs Destroy Block",
+  "config.no_mobs_destroy_block.disabled_entities": "Disabled Entities",
+  "config.no_mobs_destroy_block.disabled_entities.tooltip": "List of entity IDs that should be prevented from destroying blocks",
+  "config.no_mobs_destroy_block.explosion_effects": "Enable Explosion Effects",
+  "config.no_mobs_destroy_block.explosion_effects.tooltip": "Whether to enable explosion effects (damage, particles, sounds) while preventing block damage",
+  "config.no_mobs_destroy_block.enderman_pickup": "Prevent Enderman Pickup",
+  "config.no_mobs_destroy_block.enderman_pickup.tooltip": "Whether to prevent Endermen from picking up blocks",
+  "config.no_mobs_destroy_block.wither_damage": "Prevent Wither Block Damage",
+  "config.no_mobs_destroy_block.wither_damage.tooltip": "Whether to prevent Wither from damaging blocks with blue skulls"
+}

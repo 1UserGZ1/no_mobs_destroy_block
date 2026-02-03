@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="no_mobs_destroy_block"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="${logo_file}"
+credits="${mod_credits}"
+authors="${mod_author}"
+description='''
+${mod_description}
+Prevents specified mobs from destroying blocks while keeping all other behaviors.
+'''
+
+updateJSONURL="${update_json_url}"
+issueTrackerURL="${issue_tracker_url}"
+
+[[dependencies.no_mobs_destroy_block]]
+modId="forge"
+mandatory=true
+versionRange="[${forge_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.no_mobs_destroy_block]]
+modId="minecraft"
+mandatory=true
+versionRange="[${minecraft_version},)"
+ordering="NONE"
+side="BOTH"
